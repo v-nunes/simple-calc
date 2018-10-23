@@ -11,4 +11,4 @@ def divide(x, y):
     x / y
 
 def square(x, y):
-    pass
+    x ** y
